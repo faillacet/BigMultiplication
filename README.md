@@ -8,17 +8,4 @@ I added a uint32_t return type and a "inherited carry" parameter that is used in
 I have been attempting to find ways to circumvent this problem, but I havent been able to think of anything more efficent without completely starting from scratch.
 This was a hard assignment, but I learned a lot!
 
-Part 1 Proof:
-
-
-
-
-
-
-Part 2 Proof:
-
-
-
-
-
-Part 3 Proof:
+Proofs on attached pdf
