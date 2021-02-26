@@ -9,3 +9,4 @@ I have been attempting to find ways to circumvent this problem, but I havent bee
 This was a hard assignment, but I learned a lot!
 
 Proofs on attached pdf
+Really had trouble understanding the proof, but did my best at explaining the reasoning
